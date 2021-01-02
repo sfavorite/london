@@ -1,13 +1,13 @@
 {
-    type: "FeatureCollection",
-    features: [
+    "type": "FeatureCollection",
+    "features": [
         {
-            id: "0",
-            type: "Feature",
-            properties: {},
-            geometry: {
-                type: "Polygon",
-                coordinates: [
+            "id": "0",
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
                     [
                         [-0.5103751, 51.4680873],
                         [-0.5103637, 51.4679522],
@@ -11404,8 +11404,8 @@
                     ]
                 ]
             },
-            bbox: [-0.5103751, 51.2867601, 0.3340155, 51.6918741]
+            "bbox": [-0.5103751, 51.2867601, 0.3340155, 51.6918741]
         }
     ],
-    bbox: [-0.5103751, 51.2867601, 0.3340155, 51.6918741]
+    "bbox": [-0.5103751, 51.2867601, 0.3340155, 51.6918741]
 }
